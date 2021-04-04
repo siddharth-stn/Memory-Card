@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+
+.card > img {
+    display: block;
+    padding-top: 15px;
+    width: 370px;
+    height: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.card  {
+    margin-top: 150px;
+    background-color: chartreuse;
+    width: 400px;
+    height: 450px;
+}
