@@ -1,10 +1,15 @@
 import React from 'react';
 import ElloraCard from './Components/ElloraCard';
+import GolcondaCard from './Components/GolcondaCard';
 import '../src/App.css';
 
 function App() {
   return (
-    <ElloraCard/>
+    <div>
+      <ElloraCard/>
+      <GolcondaCard/>
+    </div>
+    
   );
 }
 
