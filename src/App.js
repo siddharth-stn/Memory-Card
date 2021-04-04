@@ -15,20 +15,27 @@ import '../src/App.css';
 
 function App() {
   return (
-    <div className="cardStack">
-      <ElloraCard/>
-      <GolcondaCard/>
-      <HawaCard/>
-      <IndiaCard/>
-      <JaisalCard/>
-      <KhajurahoCard/>
-      <LingrajCard/>
-      <MahabodhiCard/>
-      <MeenakshiCard/>
-      <QutubCard/>
-      <SunCard/>
-      <TajCard/>
+    <div className="wrapDiv">
+      <div id="scoreKeepDiv">
+        <label>Score: <h2 id="theScore">12</h2></label>
+      </div>
+      <div id="titleDiv"><h1>The Memory Card</h1></div>
+      <div className="cardStack">
+        <ElloraCard/>
+        <GolcondaCard/>
+        <HawaCard/>
+        <IndiaCard/>
+        <JaisalCard/>
+        <KhajurahoCard/>
+        <LingrajCard/>
+        <MahabodhiCard/>
+        <MeenakshiCard/>
+        <QutubCard/>
+        <SunCard/>
+        <TajCard/>
+      </div>
     </div>
+    
     
   );
 }
