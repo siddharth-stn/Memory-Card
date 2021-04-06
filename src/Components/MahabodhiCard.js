@@ -1,8 +1,8 @@
 import MahabodhiImg from '../Components/imagesForWebsite/mahabodhiTemple.jpg';
 
-function MahabodhiCard () {
+function MahabodhiCard (props) {
     return (
-        <div className="card" id="mahabodhiCard">
+        <div className="card" id="mahabodhiCard" onClick={props.buttonClick}>
             <img alt="The Mahabodhi Temple" src={MahabodhiImg}/>
         </div>
     );

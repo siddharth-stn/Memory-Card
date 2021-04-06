@@ -1,8 +1,8 @@
 import MeenakshiImg from '../Components/imagesForWebsite/meenakshiTemple.jpeg';
 
-function MeenakshiCard () {
+function MeenakshiCard (props) {
     return (
-        <div className="card" id="meenakshiCard">
+        <div className="card" id="meenakshiCard" onClick={props.buttonClick}>
             <img alt="The Meenakshi Temple" src={MeenakshiImg}/>
         </div>
     );
