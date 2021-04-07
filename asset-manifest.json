@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Memory-Card/static/css/main.810f9741.chunk.css",
+    "main.css": "/Memory-Card/static/css/main.7f4e2e9d.chunk.css",
     "main.js": "/Memory-Card/static/js/main.65ea7ed5.chunk.js",
     "main.js.map": "/Memory-Card/static/js/main.65ea7ed5.chunk.js.map",
     "runtime-main.js": "/Memory-Card/static/js/runtime-main.379056d4.js",
@@ -8,7 +8,7 @@
     "static/js/2.bbd431a2.chunk.js": "/Memory-Card/static/js/2.bbd431a2.chunk.js",
     "static/js/2.bbd431a2.chunk.js.map": "/Memory-Card/static/js/2.bbd431a2.chunk.js.map",
     "index.html": "/Memory-Card/index.html",
-    "static/css/main.810f9741.chunk.css.map": "/Memory-Card/static/css/main.810f9741.chunk.css.map",
+    "static/css/main.7f4e2e9d.chunk.css.map": "/Memory-Card/static/css/main.7f4e2e9d.chunk.css.map",
     "static/js/2.bbd431a2.chunk.js.LICENSE.txt": "/Memory-Card/static/js/2.bbd431a2.chunk.js.LICENSE.txt",
     "static/media/elloraCaves.58c3aca2.jpeg": "/Memory-Card/static/media/elloraCaves.58c3aca2.jpeg",
     "static/media/golkondaFort.3433a5e1.jpg": "/Memory-Card/static/media/golkondaFort.3433a5e1.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.379056d4.js",
     "static/js/2.bbd431a2.chunk.js",
-    "static/css/main.810f9741.chunk.css",
+    "static/css/main.7f4e2e9d.chunk.css",
     "static/js/main.65ea7ed5.chunk.js"
   ]
 }
