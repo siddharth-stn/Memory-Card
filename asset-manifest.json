@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Memory-Card/static/css/main.810f9741.chunk.css",
+    "main.js": "/Memory-Card/static/js/main.65ea7ed5.chunk.js",
+    "main.js.map": "/Memory-Card/static/js/main.65ea7ed5.chunk.js.map",
+    "runtime-main.js": "/Memory-Card/static/js/runtime-main.379056d4.js",
+    "runtime-main.js.map": "/Memory-Card/static/js/runtime-main.379056d4.js.map",
+    "static/js/2.bbd431a2.chunk.js": "/Memory-Card/static/js/2.bbd431a2.chunk.js",
+    "static/js/2.bbd431a2.chunk.js.map": "/Memory-Card/static/js/2.bbd431a2.chunk.js.map",
+    "index.html": "/Memory-Card/index.html",
+    "static/css/main.810f9741.chunk.css.map": "/Memory-Card/static/css/main.810f9741.chunk.css.map",
+    "static/js/2.bbd431a2.chunk.js.LICENSE.txt": "/Memory-Card/static/js/2.bbd431a2.chunk.js.LICENSE.txt",
+    "static/media/elloraCaves.58c3aca2.jpeg": "/Memory-Card/static/media/elloraCaves.58c3aca2.jpeg",
+    "static/media/golkondaFort.3433a5e1.jpg": "/Memory-Card/static/media/golkondaFort.3433a5e1.jpg",
+    "static/media/hawaMahal.29fdc838.jpg": "/Memory-Card/static/media/hawaMahal.29fdc838.jpg",
+    "static/media/indiaGate.ad891fb0.jpg": "/Memory-Card/static/media/indiaGate.ad891fb0.jpg",
+    "static/media/jaisalmerFort.01faf61e.jpg": "/Memory-Card/static/media/jaisalmerFort.01faf61e.jpg",
+    "static/media/khajurahoTemple.f2260403.jpeg": "/Memory-Card/static/media/khajurahoTemple.f2260403.jpeg",
+    "static/media/lingarajTemple.ae19d366.jpg": "/Memory-Card/static/media/lingarajTemple.ae19d366.jpg",
+    "static/media/mahabodhiTemple.5630cd93.jpg": "/Memory-Card/static/media/mahabodhiTemple.5630cd93.jpg",
+    "static/media/meenakshiTemple.c81e76ff.jpeg": "/Memory-Card/static/media/meenakshiTemple.c81e76ff.jpeg",
+    "static/media/qutubMinar.4d47cffb.jpg": "/Memory-Card/static/media/qutubMinar.4d47cffb.jpg",
+    "static/media/sunTemple.6f05dd50.jpg": "/Memory-Card/static/media/sunTemple.6f05dd50.jpg",
+    "static/media/tajMahal.2173a296.jpg": "/Memory-Card/static/media/tajMahal.2173a296.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.379056d4.js",
+    "static/js/2.bbd431a2.chunk.js",
+    "static/css/main.810f9741.chunk.css",
+    "static/js/main.65ea7ed5.chunk.js"
+  ]
+}
